@@ -1,0 +1,2 @@
+# springcloug-config
+config-central
